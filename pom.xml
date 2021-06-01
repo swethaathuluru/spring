@@ -48,7 +48,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>emp</finalName>
+		<finalName>hcl</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
